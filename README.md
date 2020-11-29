@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=brianzchen&show_icons=true"
+  alt="Brian's github stats"
+/>
+
 ## Stuff I've written
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
