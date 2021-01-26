@@ -2,7 +2,10 @@
 
 I work on JavaScript stuff mostly related to frontend.
 
-Currently invested in [flowtype](https://github.com/facebook/flow/commit/282b2e5b1f1525c0eb2b41719ec2ff89d3c21cd6) working on improving the community.
+### Stuff I'm interested in
+- [flowtype](https://github.com/facebook/flow) and improving the community + tooling
+- Web frontend architecture and microfrontends
+- Component libraries
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=brianzchen&show_icons=true"
