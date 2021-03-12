@@ -3,6 +3,7 @@
 I work on JavaScript stuff mostly related to frontend.
 
 ### Stuff I'm interested in
+- [ReactJS](https://github.com/facebook/react) and using it extensively day to day
 - [flowtype](https://github.com/facebook/flow) and improving the community + tooling
 - Web frontend architecture and microfrontends
 - Component libraries
