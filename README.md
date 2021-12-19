@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I work on JavaScript stuff mostly related to frontend.
+I work on JavaScript stuff mostly related to frontend. I love open source but just a newbie in the space
 
 ### Stuff I'm interested in
-- [ReactJS](https://github.com/facebook/react) and using it extensively day to day
-- [flowtype](https://github.com/facebook/flow) advocate, an active maintainer building tooling/definitions on flow-typed
+- [ReactJS](https://github.com/facebook/react) and using it extensively day to day and currently exploring React Native
+- [flowtype](https://github.com/facebook/flow) advocate, an active maintainer building tooling/definitions on [flow-typed](https://github.com/flow-typed/flow-typed) and [eslint-plugin-ft-flow](https://github.com/flow-typed/eslint-plugin-ft-flow)
 - Web frontend architecture and microfrontends
 - Component libraries
 
