@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I work on JavaScript stuff mostly related to frontend. I love open source but just a newbie in the space
+I work on JavaScript stuff mostly related to frontend, devops, some backend. I love open source but just a newbie in the space
 
 ### Stuff I'm interested in
 - [ReactJS](https://github.com/facebook/react) and using it extensively day to day and currently exploring React Native
