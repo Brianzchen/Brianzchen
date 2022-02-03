@@ -1,12 +1,15 @@
-## Hi there 👋
+## 👋 Stay a While and Listen 👴
 
-I work on JavaScript stuff mostly related to frontend, devops, some backend. I love open source but just a newbie in the space
+I work on JavaScript stuff mostly related to frontend, devops, some backend. I love open source though I'm just a newbie in the space.
+
+> I want to build something, something great, something that matters - Circle CI ad on YouTube
 
 ### Stuff I'm interested in
-- [ReactJS](https://github.com/facebook/react) and using it extensively day to day and currently exploring React Native
-- [flowtype](https://github.com/facebook/flow) advocate, an active maintainer building tooling/definitions on [flow-typed](https://github.com/flow-typed/flow-typed) and [eslint-plugin-ft-flow](https://github.com/flow-typed/eslint-plugin-ft-flow)
-- Web frontend architecture and microfrontends
-- Component libraries
+- [ReactJS](https://github.com/facebook/react) and using it extensively day to day + some React Native
+- [flowtype](https://github.com/facebook/flow) advocate, an active maintainer building tooling/definitions on [flow-typed](https://github.com/flow-typed/flow-typed), [eslint-plugin-ft-flow](https://github.com/flow-typed/eslint-plugin-ft-flow) and other goodies here and there
+  - DM me if you need help on flowtype
+- Web frontend architecture, microfrontends, monorepos
+- Component libraries > founded, built, and maintained multiple
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=brianzchen&show_icons=true"
